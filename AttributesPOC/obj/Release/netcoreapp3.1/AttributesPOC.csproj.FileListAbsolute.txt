@@ -1,0 +1,10 @@
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\AttributesC#Course\POC\AttributesPOC\AttributesPOC\bin\Release\netcoreapp3.1\AttributesPOC.exe
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\AttributesC#Course\POC\AttributesPOC\AttributesPOC\bin\Release\netcoreapp3.1\AttributesPOC.deps.json
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\AttributesC#Course\POC\AttributesPOC\AttributesPOC\bin\Release\netcoreapp3.1\AttributesPOC.runtimeconfig.json
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\AttributesC#Course\POC\AttributesPOC\AttributesPOC\bin\Release\netcoreapp3.1\AttributesPOC.runtimeconfig.dev.json
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\AttributesC#Course\POC\AttributesPOC\AttributesPOC\bin\Release\netcoreapp3.1\AttributesPOC.dll
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\AttributesC#Course\POC\AttributesPOC\AttributesPOC\bin\Release\netcoreapp3.1\AttributesPOC.pdb
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\AttributesC#Course\POC\AttributesPOC\AttributesPOC\obj\Release\netcoreapp3.1\AttributesPOC.AssemblyInfoInputs.cache
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\AttributesC#Course\POC\AttributesPOC\AttributesPOC\obj\Release\netcoreapp3.1\AttributesPOC.AssemblyInfo.cs
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\AttributesC#Course\POC\AttributesPOC\AttributesPOC\obj\Release\netcoreapp3.1\AttributesPOC.dll
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\AttributesC#Course\POC\AttributesPOC\AttributesPOC\obj\Release\netcoreapp3.1\AttributesPOC.pdb
